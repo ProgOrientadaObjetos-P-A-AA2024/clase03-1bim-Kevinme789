@@ -49,7 +49,7 @@ public class FacturaTelefono {
         return valorFactura;
     }
     public void establecerNombresC(String n){
-        nombresC=n;
+        nombresC = n;
     }
     public String obtenerNombresC(){
         return nombresC;
